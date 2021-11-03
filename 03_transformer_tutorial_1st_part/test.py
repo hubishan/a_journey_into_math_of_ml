@@ -17,6 +17,7 @@ import seaborn as sns
 import math
 
 
+
 def get_positional_encoding(max_seq_len, embed_dim):
     # 初始化一个positional encoding
     # embed_dim: 字嵌入的维度
